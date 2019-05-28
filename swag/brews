@@ -3,6 +3,7 @@ git
 tig
 mas
 wget
+watchman
 hub
 hugo
 yarn
